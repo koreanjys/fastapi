@@ -13,8 +13,22 @@
 - 응답 모델, 오류 처리, 상태 코드 학습
 
 ## 스크린샷
-- ![main](https://github.com/koreanjys/todos/blob/main/screenshot/main.png)
-- ![input](https://github.com/koreanjys/todos/blob/main/screenshot/input.png)
-- ![add](https://github.com/koreanjys/todos/blob/main/screenshot/add.png)
-- ![list](https://github.com/koreanjys/todos/blob/main/screenshot/list.png)
-- ![detail](https://github.com/koreanjys/todos/blob/main/screenshot/detail.png)
+![main](https://github.com/koreanjys/todos/blob/main/screenshot/main.png)
+<br>
+메인화면
+<br>
+![input](https://github.com/koreanjys/todos/blob/main/screenshot/input.png)
+<br>
+입력
+<br>
+![add](https://github.com/koreanjys/todos/blob/main/screenshot/add.png)
+<br>
+추가
+<br>
+![list](https://github.com/koreanjys/todos/blob/main/screenshot/list.png)
+<br>
+리스트
+<br>
+![detail](https://github.com/koreanjys/todos/blob/main/screenshot/detail.png)
+<br>
+디테일
