@@ -12,6 +12,12 @@
 - jinja2 템플릿을 사용한 뷰 생성 방법과 API 응답 렌더링 방법 학습
 - 응답 모델, 오류 처리, 상태 코드 학습
 
+## 구조
+- 모델: model.py        (게시판 모델)
+- 메인: api.py          (초기 url)
+- 라우터: todo.py       (CRUD를 구현한 라우터)
+- 템플릿: templates     (템플릿 파일들)
+
 ## 스크린샷
 메인화면
 ![main](https://github.com/koreanjys/todos/blob/main/screenshot/main.png)
